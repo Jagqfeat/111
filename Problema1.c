@@ -1,3 +1,5 @@
+Estoy solito
+No hay nadie a mi lado
 /*
   Jesus Antonio Gonzalez Quevedo  a00399890
   Analysis & Design of Algorithms
